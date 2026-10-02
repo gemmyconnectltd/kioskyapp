@@ -1,0 +1,28 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Kotlin Multiplatform / Android specific ignores
+**/build/
+.kotlin/
+shared/build/
+app/build/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+*.log
+.env
+.env.*
+! .env.example
+Kiosky_bn/
+.codex
